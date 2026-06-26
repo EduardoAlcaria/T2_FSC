@@ -1,5 +1,5 @@
 Trabalho de Depuracao - Jogo da Velha em Assembly RISC-V
-Fundamentos de Sistemas Computacionais - 98800-04
+Fundamentos de Sistemas Computacionais
 
 Integrantes: Eduardo Alcaria, Thiago Tarantino, Luca Callegari, Renan Bertoletti 
  
